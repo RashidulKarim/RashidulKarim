@@ -47,17 +47,8 @@
     src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>&nbsp;
 </p>
 
-### 📈 GitHub stats:
-<p align='center'>
-  <img src='https://github.com/rashidul-xs/github-stats-transparent/blob/output/generated/overview.svg'>
-  <img src='https://github.com/rashidul-xs/github-stats-transparent/blob/output/generated/languages.svg'>
-</p> -->
-
-<h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
-<p align='center'>
-  <img
-    src='https://github-readme-streak-stats.herokuapp.com/?user=rashiudlkarim&hide_border=true&background=00000000&stroke=777777&sideNums=4488FF&currStreakNum=4488FF&ring=45CEA2&fire=4488FF&currStreakLabel=68C2F5&sideLabels=68C2F5&dates=54AF9C'>
-</p>
+### 🏆 GitHub trophies:
+<p align="left"> <a href="https://github.com/rashidulkarim/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidulkarim&theme=dracula&column=-1" alt="rashidul karim" /></a> </p>
  
 ### ✨ GitHub contribution:
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidulkarim&bg_color=231f21&color=25b6b4&line=b13eaa&point=e6d1d1&area=true&hide_border=true"/></p>
