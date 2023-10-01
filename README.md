@@ -49,8 +49,8 @@
 
 ### 📈 GitHub stats:
 <p align='center'>
-  <img src='https://github.com/rashidulkarim/github-stats-transparent/blob/output/generated/overview.svg'>
-  <img src='https://github.com/rashidulkarim/github-stats-transparent/blob/output/generated/languages.svg'>
+  <img src='https://github.com/rashidul-xs/github-stats-transparent/blob/output/generated/overview.svg'>
+  <img src='https://github.com/rashidul-xs/github-stats-transparent/blob/output/generated/languages.svg'>
 </p> -->
 
 <h3 align='center'>GitHub Streak&nbsp;&nbsp;📈</h3>
